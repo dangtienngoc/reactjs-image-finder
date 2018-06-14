@@ -3,7 +3,7 @@ export default class ExampleComponent extends Component {
   render() {
     return (
       <div>
-        a
+        Link
       </div>
     )
   }
