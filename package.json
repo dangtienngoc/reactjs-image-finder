@@ -1,0 +1,28 @@
+{
+  "name": "reactjs-image-finder",
+  "version": "1.0.0",
+  "description": "Upload image and finder",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "mainjs-public/reactjs-image-finder",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "dangtienngoc",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "rollup": "^0.60.2",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
