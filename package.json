@@ -2,7 +2,7 @@
   "name": "reactjs-image-finder",
   "version": "1.0.0",
   "description": "Upload image and finder",
-  "license": "ISC",
+  "license": "MIT",
   "repository": "mainjs-public/reactjs-image-finder",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

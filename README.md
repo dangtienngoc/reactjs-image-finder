@@ -1,4 +1,4 @@
-# mainjs-images
+# reactjs-image-finder
 
 > Upload image and Picker
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save mainjs-images
+npm install --save reactjs-image-finder
 ```
 
 ## Usage
@@ -15,12 +15,12 @@ npm install --save mainjs-images
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'mainjs-images'
+import ImageFinder from 'reactjs-image-finder'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <ImageFinder />
     )
   }
 }
@@ -28,4 +28,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [mainjs](https://github.com/mainjs)
+MIT © [mainjs-public](https://github.com/mainjs-public)
