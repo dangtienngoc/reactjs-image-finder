@@ -29,4 +29,25 @@
     border: 1px solid rgba(0,0,0,0.2);
     border-radius: .3rem;
   }
+
+  &__header {
+    padding: 15px 20px;
+    border-bottom: 1px solid #e8e8e8;
+    > a {
+      float: right;
+    }
+  }
+
+  &__action {
+    padding: 10px 20px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  &__right {
+
+  }
+
+  &__left {
+
+  }
 }

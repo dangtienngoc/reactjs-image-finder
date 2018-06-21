@@ -10,7 +10,7 @@ export default class ExampleComponent extends Component {
   constructor(props, context) {
     super(props, context);
     this.state = {
-      isOpen: false,
+      isOpen: true,
     };
     this.toggle = this.toggle.bind(this);
     this.onClose = this.onClose.bind(this);
