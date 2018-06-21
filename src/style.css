@@ -1,0 +1,25 @@
+.reactjs-image-finder--modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 9;
+  background-color: #000;
+  opacity: .5; }
+.reactjs-image-finder--modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10; }
+.reactjs-image-finder--wrapper {
+  max-width: 800px;
+  margin: 1.75rem auto; }
+.reactjs-image-finder--container {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: .3rem; }
+
+/*# sourceMappingURL=style.css.map */
